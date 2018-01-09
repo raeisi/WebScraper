@@ -1,0 +1,952 @@
+SKU,retailer,timestamp,brand,model,price,currency,original_price,Type,Operating system,Processor,RAM,Storage,Touchscreen,Screen size,Screen type,Resolution,Wireless,Ethernet,Bluetooth,USB,Video interface,Audio interface,Optical disc drive,Memory card reader,Sound,Speakers,Camera,Microphone,Mouse / trackpad,Keyboard,Security features,Battery type,Battery life,Colour,Box contents,Dimensions,Weight,Guarantee,Software included,product_description,url,Screen features,Other connections
+215754,LaptopsDirect,2018-01-09 19:14:35,LENOVO,IdeaPad 320s-14IKB,299.00,GBP,529.99,Laptop,Windows 10,"- Intel® Pentium® Gold 4415U Processor
+- Dual-core
+- 2.30 GHz
+- 2 MB cache",4 GB DDR4 (2133 MHz) (8 GB maximum installable RAM),128 GB SSD,No,"14""",LCD,1366 x 768,"- Wireless-AC
+- 1x1",No,Bluetooth 4.1,"- USB Type-C x 1 
+- USB 3.0 x 1  
+- USB 2.0 x 1",HDMI,3.5 mm jack,No,4-in-1 memory card reader,Harman & Dolby Audio,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Full-size keyboard with numeric keypad,Kensington security lock slot,2-cell polymer,Up to 7 hours,Mineral grey,"- Lenovo IdeaPad 320s-14IKB 14"" Laptop
+- Charger
+- Safety & warranty guide
+- Quick start guide",19.3 x 327.4 x 236.5 mm (H x W x D),1.69 kg,1 year,"- Office 365 trial version
+- McAfee LiveSafe trial version
+- Lenovo App Explorer
+- Lenovo Companion 3.0
+- Lenovo ID
+- Lenovo Settings
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","LENOVO IdeaPad 320s-14IKB 14"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-320s-14ikb-14-laptop-grey-10169166-pdt.html,,
+229200_x,PC_World,2018-01-09 19:14:35,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_x,PC_World,2018-01-09 19:14:36,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_x,PC_World,2018-01-09 19:14:37,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_x,PC_World,2018-01-09 19:14:38,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_x,PC_World,2018-01-09 19:14:38,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_x,PC_World,2018-01-09 19:14:39,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_y,PC_World,2018-01-09 19:14:39,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_y,PC_World,2018-01-09 19:14:40,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_y,PC_World,2018-01-09 19:14:41,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_y,PC_World,2018-01-09 19:14:41,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_y,PC_World,2018-01-09 19:14:42,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_y,PC_World,2018-01-09 19:14:42,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_x,PC_World,2018-01-09 19:14:43,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_x,PC_World,2018-01-09 19:14:44,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_x,PC_World,2018-01-09 19:14:44,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_x,PC_World,2018-01-09 19:14:45,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_x,PC_World,2018-01-09 19:14:46,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_x,PC_World,2018-01-09 19:14:46,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_y,PC_World,2018-01-09 19:14:47,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_y,PC_World,2018-01-09 19:14:47,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_y,PC_World,2018-01-09 19:14:48,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_y,PC_World,2018-01-09 19:14:49,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_y,PC_World,2018-01-09 19:14:50,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_y,PC_World,2018-01-09 19:14:50,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_x,PC_World,2018-01-09 19:14:51,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_x,PC_World,2018-01-09 19:14:52,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_x,PC_World,2018-01-09 19:14:53,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_x,PC_World,2018-01-09 19:14:54,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_x,PC_World,2018-01-09 19:14:54,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_x,PC_World,2018-01-09 19:14:55,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_y,PC_World,2018-01-09 19:14:56,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_y,PC_World,2018-01-09 19:14:56,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_y,PC_World,2018-01-09 19:14:57,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_y,PC_World,2018-01-09 19:14:58,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_y,PC_World,2018-01-09 19:14:58,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_y,PC_World,2018-01-09 19:14:59,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_x,PC_World,2018-01-09 19:14:59,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_x,PC_World,2018-01-09 19:15:00,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_x,PC_World,2018-01-09 19:15:01,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_x,PC_World,2018-01-09 19:15:02,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_x,PC_World,2018-01-09 19:15:02,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_x,PC_World,2018-01-09 19:15:03,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_y,PC_World,2018-01-09 19:15:03,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_y,PC_World,2018-01-09 19:15:04,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_y,PC_World,2018-01-09 19:15:05,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_y,PC_World,2018-01-09 19:15:05,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_y,PC_World,2018-01-09 19:15:06,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_y,PC_World,2018-01-09 19:15:07,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_x,PC_World,2018-01-09 19:15:07,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_x,PC_World,2018-01-09 19:15:08,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_x,PC_World,2018-01-09 19:15:09,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_x,PC_World,2018-01-09 19:15:10,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_x,PC_World,2018-01-09 19:15:11,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_x,PC_World,2018-01-09 19:15:11,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_y,PC_World,2018-01-09 19:15:11,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_y,PC_World,2018-01-09 19:15:12,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_y,PC_World,2018-01-09 19:15:13,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_y,PC_World,2018-01-09 19:15:14,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_y,PC_World,2018-01-09 19:15:14,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_y,PC_World,2018-01-09 19:15:15,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_x,PC_World,2018-01-09 19:15:15,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_x,PC_World,2018-01-09 19:15:16,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_x,PC_World,2018-01-09 19:15:17,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_x,PC_World,2018-01-09 19:15:18,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_x,PC_World,2018-01-09 19:15:18,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_x,PC_World,2018-01-09 19:15:19,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_y,PC_World,2018-01-09 19:15:19,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_y,PC_World,2018-01-09 19:15:20,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_y,PC_World,2018-01-09 19:15:21,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_y,PC_World,2018-01-09 19:15:21,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_y,PC_World,2018-01-09 19:15:22,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_y,PC_World,2018-01-09 19:15:23,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_x,PC_World,2018-01-09 19:15:24,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_x,PC_World,2018-01-09 19:15:24,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_x,PC_World,2018-01-09 19:15:25,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_x,PC_World,2018-01-09 19:15:26,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_x,PC_World,2018-01-09 19:15:26,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_x,PC_World,2018-01-09 19:15:27,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_y,PC_World,2018-01-09 19:15:27,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_y,PC_World,2018-01-09 19:15:28,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_y,PC_World,2018-01-09 19:15:29,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_y,PC_World,2018-01-09 19:15:29,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_y,PC_World,2018-01-09 19:15:30,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896_y,PC_World,2018-01-09 19:15:31,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_x,PC_World,2018-01-09 19:15:32,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_x,PC_World,2018-01-09 19:15:32,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_x,PC_World,2018-01-09 19:15:33,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_x,PC_World,2018-01-09 19:15:34,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_x,PC_World,2018-01-09 19:15:35,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
+211896,PC_World,2018-01-09 19:15:35,HP,14-bp059sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Jet black,"- HP 14-bp059sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp059sa 14"" Laptop - Jet Black",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp059sa-14-laptop-jet-black-10166575-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+229200_y,PC_World,2018-01-09 19:15:36,THOMSON,NEO10,129.99,GBP,129.99,Laptop,Windows 10 (64-bit),"- Intel® Atom™ x5-Z8350
+- Quad-core
+- 1.44 GHz / 1.84 GHz (Burst)
+- 2 MB cache",2 GB DDR3,32 GB eMMC,No,"10.1""",LCD,1024 x 600,802.11 b/g/n,nO,Bluetooth 4.0,USB 2.0 x 2,Micro HDMI x 1,3.5 mm jack,No,microSD card reader,,Stereo speakers,0.3 MP webcam,Yes,Multi-touch trackpad,Island-style keyboard,,1-cell Lithium-ion,Up to 6 hours,White,"- Thomson NEO10 10.1"" Laptop
+- AC power adapter
+- Documentation",19.1 x 276 x 185 mm (H x W x D),0.94 kg,1 year,"* Full version of Microsoft Office not included 
+* Full version of anti-virus / internet security not included","THOMSON NEO10 10.1"" Laptop - White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/thomson-neo10-10-1-laptop-white-10175040-pdt.html,,
+212388_y,PC_World,2018-01-09 19:15:37,HP,14-bp056sa,219.99,GBP,299.99,Laptop,Windows 10 (64-bit),"- Intel® Celeron™ N3060 Processor
+- Dual-core
+- 2 GHz
+- 3 MB cache",4 GB GDDR4 (2133 MHz),64 GB eMMC,No,"14""",LED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.2,"- USB Type-C x 1
+- USB 3.1 x 2",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP TrueVision HD webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard,Kensington security lock slot,3-cell Lithium-ion,Up to 8 hours; 45 minutes,Snow white,"- HP 14-bp056sa 14"" Laptop
+- AC power adapter",19.9 x 239 x 336 mm (H x W x D),1.55 kg,1 year,"- Microsoft Office 365 trial version
+- Netflix (subscription required)
+
+* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included","HP 14-bp056sa 14"" Laptop - Snow White",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-14-bp056sa-14-laptop-snow-white-10166801-pdt.html,"- SVA anti-glare coating
+- Backlighting",Miracast
+201802_y,PC_World,2018-01-09 19:15:37,HP,Notebook 15-bw054sa,299.99,GBP,399.99,Laptop,Windows 10 (64-bit),"- AMD A6-9220 APU Processor
+- Dual-core
+- 2.5 GHz / 2.9 GHz (Turbo Boost)
+- 1 MB cache",4 GB DDR4,1 TB; 4500 rpm,No,"15.6""",WLED,1366 x 768,802.11 b/g/n,Gigabit Ethernet (10/100/1000),Bluetooth 4.0,"- USB 3.1 x 2
+- USB 2.0 x 1",HDMI x 1,3.5 mm jack,No,SD card reader,,Stereo speakers,HP webcam,Yes,Multi-touch trackpad,Full-size island-style keyboard with numeric keypad,Kensington security lock slot,4-cell Lithium-ion,Up to 11 hours,Smoke grey,"- HP Notebook 15-bw054sa 15.6"" Laptop
+- Charging adapter",23.8 x 253.8 x 380 mm (H x W x D),2.1 kg,1 year,"* Full version of Microsoft Office not included
+* Full version of anti-virus / internet security not included 
+
+- McAfee LiveSafe 30 day trial
+- Office 365 trial version
+- Netflix app
+- HP Audio Switch
+- HP JumpStart
+- HP Sure Connect
+- HP CoolSense
+- HP Orbit","HP Notebook 15-bw054sa 15.6"" Laptop - Grey",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-notebook-15-bw054sa-15-6-laptop-grey-10164662-pdt.html,"- LED backlighting
+- Anti-glare coating",Miracast
+169493_y,PC_World,2018-01-09 19:15:39,ACER,CB3-431,249.99,GBP,299.99,Chromebook,Chrome OS,"- Intel® Celeron® Processor N3160
+- Quad-core
+- 1.6 GHz / 2.24 GHz (Turbo Boost)
+- 2 MB cache",4 GB DDR3,32 GB eMMC,No,"14""",Full HD IPS LED-Backlit,1920 x 1080,802.11 ac,,Bluetooth 4.2,USB 3.0 x 2,HDMI x 1,3.5 mm jack,No,,HD audio,Integrated stereo speakers,Integrated HD webcam,Yes,Multitouch trackpad,Acer FineTip keyboard,Kensington security lock slot,3-cell Lithium polymer,Up to 12 hours,Gold,"- Acer CB3-431 14"" Full HD Chromebook
+- AC power adapter
+- User manual",17 x 341 x 236.6 mm (H x W x D),1.55 kg,1 year,,"ACER CB3-431 14"" Full HD Chromebook - Gold",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-cb3-431-14-full-hd-chromebook-gold-10148917-pdt.html,Anti-glare Display,
+210017_y,PC_World,2018-01-09 19:15:39,APPLE,MacBook Air,949.00,GBP,949.00,MacBook Air,macOS,"- Intel® Core™ i5 Processor
+- Dual-core
+- 1.8 GHz / 2.9 GHz with Turbo Boost
+- 3 MB cache",8 GB LPDDR3,128 GB SSD,No,"13.3""",LED,1440 x 900,802.11 ac,,Bluetooth 4.0,USB 3.0 x 2,Thunderbolt 2 x 1,3.5 mm jack,No,SDXC card reader,,Integrated stereo speakers,FaceTime HD webcam,Yes,Multitouch trackpad,Full-size backlit keyboard,,Lithium-polymer,Up to 12 hours,Silver,"- Apple MacBook Air
+- Power adapter
+- AC wall plug
+- Power lead",17 x 325 x 227 mm (H x W x D),1.35 kg,1 year,,"APPLE MacBook Air 13.3"" (2017)",https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/apple-macbook-air-13-3-2017-10165823-pdt.html,LED backlighting,
